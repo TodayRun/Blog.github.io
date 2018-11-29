@@ -1,2 +1,2 @@
-# Blog.github.io
+# blog.github.io
 Practice is the sole criterion for testing truth
