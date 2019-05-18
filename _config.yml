@@ -8,10 +8,9 @@ github:  https://todayrun.github.io/
 #特别注意`baseurl`的配置。如果是`***.github.io`项目，不修改为空''的话，会导致JS,CSS等静态资源无法找到的错误
 #baseurl: "/LessOrMore"
 baseurl: ''
-description: Practice is the sole criterion for testing truth!
-meta_description: Mr.Huo;个人博客;你还有很多未完成的梦,还有什么理由停下脚步,Reday Go!
-motto: Practice is the sole criterion for testing truth!
-banner: 实践是检验真理的唯一标准!
+description: TodayRun Blog
+motto: TodayRun Blog
+banner: Practice is the sole criterion for testing truth!
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
@@ -19,7 +18,6 @@ paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: OnTheWay
 
 # Build settings
 markdown: 
