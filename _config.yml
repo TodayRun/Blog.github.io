@@ -8,9 +8,9 @@ github:  https://todayrun.github.io/
 #特别注意`baseurl`的配置。如果是`***.github.io`项目，不修改为空''的话，会导致JS,CSS等静态资源无法找到的错误
 #baseurl: "/LessOrMore"
 baseurl: ''
-description: Practice is the sole criterion for testing truth!
+description: Practice is the sole criterion for testing truth
 motto: TodayRun Blog
-banner: Practice is the sole criterion for testing truth!
+banner: Practice is the sole criterion for testing truth
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
