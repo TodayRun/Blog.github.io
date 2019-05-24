@@ -20,7 +20,7 @@ Spring Redis
 
 
 
-1. 在pom.xml中添加redis客户端jedis依赖
+1.在pom.xml中添加redis客户端jedis依赖
 ```bash
 <dependency>
 <groupId>redis.clients</groupId>
@@ -183,7 +183,7 @@ redis.testOnBorrow=true
 redis.testWhileIdle=true
 ```
 
-6. 编写redis通用工具类
+6.编写redis通用工具类
 ```bash
 import java.util.List;
 import java.util.concurrent.TimeUnit;
