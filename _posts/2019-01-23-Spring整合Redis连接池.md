@@ -2,7 +2,7 @@
 layout: post
 title:  "Spring整合Redis连接池"
 date:   2019-01-23 18:00:01 +0800
-categories: Spring
+categories: 架构
 tag: Redis
 ---
 
